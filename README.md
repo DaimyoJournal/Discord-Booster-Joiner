@@ -2,6 +2,8 @@
 
 A fast and simple Python toolkit for Discord server boosting, joining, and token generation.
 
+[![Installation](https://img.shields.io/badge/📖%20Installation%20guide-blue)](#installguide)
+
 ---
 
 ## 🌟 Key Features
@@ -43,6 +45,7 @@ Select an option: 02
 ```
 ---
 
+<a name="installguide"></a>
 ## 🚀 Automated Installation & Setup (PowerShell)
 
 1. Open PowerShell as Administrator:
