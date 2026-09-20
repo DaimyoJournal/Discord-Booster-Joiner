@@ -4,7 +4,7 @@ A fast and simple Python toolkit for Discord server boosting, joining, and token
 
 ---
 
-## 🌟 Features
+## 🌟 Key Features
 
 - Server Booster
 - Server Joiner
